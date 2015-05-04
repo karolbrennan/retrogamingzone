@@ -1,0 +1,87 @@
+@font-face {
+    font-family: 'nisesegaregular';
+    src: url('../fonts/nisesega-webfont.eot');
+    src: url('../fonts/nisesega-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/nisesega-webfont.woff') format('woff'),
+         url('../fonts/nisesega-webfont.ttf') format('truetype'),
+         url('../fonts/nisesega-webfont.svg#nisesegaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+a {
+	color: #850e11;
+}
+
+.layout-header a, .layout-footer a {
+	color: #fff;
+}
+
+h1, thead tr td a {
+	font-family: 'nisesegaregular', Helvetica, Arial, sans-serif;
+}
+h1 {
+	border: none;
+	border-radius: 0;
+}
+
+.layout-header a {
+	white-space: normal;
+}
+
+.layout-header {
+	background: #850e11;
+}
+
+.layout-content {
+	background: url('../../templates/default/images/sega.png') top right no-repeat #f6f6f6;
+}
+
+
+nav ul > li > a:hover {
+	background: #2c2c2c;
+}
+
+
+input, select { 
+	border: 1px solid rgba(142,0,2,0.38);
+}
+
+
+input[type=submit] {
+	background: #850e11;
+	border: 1px solid rgba(100,0,1,0.61);
+}
+
+
+input[type=submit]:hover {
+	background: #BD0003;
+}
+
+
+
+input:focus, select:focus {
+	border: 1px solid rgba(100,0,0,1);
+}
+
+
+thead tr td {
+	background: #850e11;
+}
+
+
+tbody tr:hover {
+	background: rgba(161,0,2,0.25);
+}
+
+#showing {
+	border-top: 3px solid #850e11;
+}
+
+
+thead td span {
+	position: relative;
+	top: -0.2rem;
+}

@@ -35,3 +35,7 @@ This project was built using the [SimpleMVC (Now known as Nova) PHP Framework](h
 - Google reCaptcha
 - Google Fonts
 - Basically a lot of crap I did NOT need but was a requirement for the project at the time (as this was a midterm and final project for a college PHP course)
+
+### Database Schema
+![Retro Gaming Zone Database Schema](https://github.com/codemasterkarol/retrogamingzone/blob/master/Database_Schema_RGZ.png)
+*Note: This was my first attempt at designing and normalizing a database schema.*

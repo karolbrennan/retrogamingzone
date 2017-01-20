@@ -12,18 +12,18 @@ Sometimes I come across cheap console games for old systems, and figured it woul
 - Gamification feature: leaderboard for who has the most items in their collection
 - Game and console database complete with cover art
 
-### Future Improvements
-- Full rewrite of the codebase, moving away from Simple MVC/Nova Framework to something (anything) else
-- Add more consoles and games
-- Add more themes that look like retro consoles the way the current theme looks like the old Atari 2600
-- Reduce the number of frameworks/libraries. Simplify the codebase.
-
 ## Technology
 This was my first Object Oriented PHP application. It was my first time for a lot of stuff.
 That said: the code __SUCKS__. I mean it's really, *really* __bad__. Needs a full rewrite. So please don't judge me by this. This is public on github as a means to show how far I've come and how much I continue to grow.
 
 ### Development
 This project was built using the [SimpleMVC (Now known as Nova) PHP Framework](http://novaframework.com/php-framework)
+
+#### Future Improvements
+- Full rewrite of the codebase, moving away from Simple MVC/Nova Framework to something (anything) else
+- Add more consoles and games
+- Add more themes that look like retro consoles the way the current theme looks like the old Atari 2600
+- Reduce the number of frameworks/libraries. Simplify the codebase.
 
 ### Languages Used
 - HTML

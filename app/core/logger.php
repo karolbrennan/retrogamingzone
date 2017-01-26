@@ -27,7 +27,7 @@ class Logger {
 	* saved the exception and calls customer error function
 	* @param  exeption $e 
 	*/
-	public static function exception_handler(Exception $e){
+	public static function exception_handler($e){
 		self::newMessage($e);
 		self::customErrorMsg();
 	}

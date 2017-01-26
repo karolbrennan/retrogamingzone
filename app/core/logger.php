@@ -58,7 +58,6 @@ class Logger {
 	* @param  string    $error_file  file to save to
 	*/
 	public static function newMessage(Exception $exception, $print_error = false, $clear = false, $error_file = 'errorlog.html') {
-
 		$message = $exception->getMessage();
 		$code = $exception->getCode();
 		$file = $exception->getFile();

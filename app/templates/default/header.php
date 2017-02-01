@@ -16,7 +16,7 @@
     <script src="<?php echo \helpers\url::get_template_path();?>js/vendor/placeholder.js"></script>
     <script src="<?php echo \helpers\url::get_template_path();?>js/foundation/foundation.js"></script>
     <script src="<?php echo \helpers\url::get_template_path();?>js/main.js"></script>
-
+    <meta property="og:image" content="<?php echo \helpers\url::get_template_path();?>/images/ogimage.png"/>
 </head>
 <body>
 

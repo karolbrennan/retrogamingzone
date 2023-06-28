@@ -1,5 +1,5 @@
 # Retro Gaming Zone
-#### Current URL
+#### Old URL
 http://retrogaming.zone
 
 Retro Gaming Zone was born out of a course requirement and my love for old school video games/consoles. My personal collection of old school consoles includes an Intellivision II, Atari 2600 and 7800, NES, SNES, N64, Sega Master System, and Playstation I & II. 
@@ -18,12 +18,6 @@ That said: the code __SUCKS__. I mean it's really, *really* __bad__. Needs a ful
 
 ### Development
 This project was built using the [SimpleMVC (Now known as Nova) PHP Framework](http://novaframework.com/php-framework)
-
-#### Future Improvements
-- Full rewrite of the codebase, moving away from Simple MVC/Nova Framework to something (anything) else
-- Add more consoles and games
-- Add more themes that look like retro consoles the way the current theme looks like the old Atari 2600
-- Reduce the number of frameworks/libraries. Simplify the codebase.
 
 ### Languages Used
 - HTML
